@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="do_not_have_account">Don\'t have an account?</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="description">TODO</string>
+    <string name="create_account">Create account</string>
+    <string name="login_with">OR Log in with</string>
+    <string name="register_with">OR Register with</string>
+    <string name="login_now">Log in Now.</string>
+    <string name="register_now">Register Now.</string>
+
+    <string name="facebook_app_id">554741291868940</string>
+    <string name="fb_login_protocol_scheme">fb554741291868940</string>
+    <string name="logout">Log out</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="update">update</string>
+
+<!--    <string name="default_web_client_id" translatable="false">123.apps.googleusercontent.com</string>-->
+</resources>
